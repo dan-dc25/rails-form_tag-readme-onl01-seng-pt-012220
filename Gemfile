@@ -37,6 +37,7 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.7'
   gem 'capybara'
   gem 'database_cleaner'
+  #gem 'web-console', '2.0.0.beta3'
 end
 
 group :development do
